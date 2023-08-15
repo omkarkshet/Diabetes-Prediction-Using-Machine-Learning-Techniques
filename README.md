@@ -48,9 +48,10 @@ e. Seaborn
 
   The proposed approach uses different classification and ensemble methods and implemented using python. These methods are standard Machine Learning methods used to obtain the best accuracy from data. In this work we see that random forest classifier achieves better compared to others.Overall, we have used best Machine Learning techniques for prediction and to achieve high performance accuracy.Figure shows the result of these Machine Learning method
 
-image-1.png
+![Alt text](image-3.png)
+## Webpage link to our project:-https://diabetes-prediction-l6to.onrender.com
 
-## Webpage link to our project:-<https://diabetes-prediction-l6to.onrender.com>
+![Alt text](image-2.png)
 
 
 image.png
